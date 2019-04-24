@@ -1,0 +1,56 @@
+h1
+{
+	margin-top: 50px ;
+	margin-left: 550px ;
+	margin-bottom: 100px ;
+	font-family: fantasy ;
+}
+
+.flottant
+{
+	position: absolute;         
+    left: 800px;
+	height: 35%;
+}
+
+legend
+{
+	font-family: fantasy ;
+}
+
+fieldset
+{
+	background-color:#F0E6A1;
+    max-width:700px;
+	border:2px solid gray;
+    -moz-border-radius:8px;
+    -webkit-border-radius:8px;	
+    border-radius:8px;	
+	margin-left: 300px ;
+	margin-bottom: 100px ;
+}
+
+td
+{
+	padding: 20px;
+	font-family: sans-serif ;
+}
+
+
+a
+{
+	font-family: fantasy ;
+	margin-left: 650px ;
+}
+
+
+.size
+{
+	font-weight: bold ;
+}
+
+
+body 
+{
+ background-image: url("back.jpg");
+}
